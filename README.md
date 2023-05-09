@@ -1,2 +1,2 @@
 # LIST_HTML
-Latihan program list di html menggunakan aplikasi Sublime
+Latihan program  di html menggunakan aplikasi Sublime
